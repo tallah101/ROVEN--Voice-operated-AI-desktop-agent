@@ -1,0 +1,43 @@
+# Core
+customtkinter>=5.2
+numpy>=1.26
+jsonschema>=4.21
+anthropic>=0.40
+# Audio & speech
+sounddevice>=0.4.6
+faster-whisper>=1.0.3
+openwakeword>=0.6.0
+pvporcupine>=3.0        # optional: only for wake_engine=porcupine
+edge-tts>=6.1.12
+miniaudio>=1.59
+pyttsx3>=2.90
+# Windows automation
+pywin32>=306
+psutil>=5.9
+pycaw>=20240210
+comtypes>=1.4
+screen-brightness-control>=0.22
+pyautogui>=0.9.54
+pyperclip>=1.8
+keyboard>=0.13.5
+send2trash>=1.8
+# UI
+pystray>=0.19
+Pillow>=10.0
+# Security
+keyring>=24.0
+# Documents
+pypdf>=4.0
+python-docx>=1.1
+openpyxl>=3.1
+python-pptx>=0.6.23
+# Integrations
+requests>=2.31
+google-auth>=2.29
+google-auth-oauthlib>=1.2
+# In-app UI, browser and screen control
+uiautomation>=2.0.20
+playwright>=1.44
+mss>=9.0
+# Dev
+pytest>=8.0

@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+.build-venv/
+build/
+dist/
+packaging/roven.ico
+.pytest_cache/
